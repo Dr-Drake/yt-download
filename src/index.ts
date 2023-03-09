@@ -5,7 +5,7 @@ import youtubedl from 'youtube-dl-exec';
 import logger from 'progress-estimator'
 
 yargs
-  .scriptName('yt-dl')
+  .scriptName('yt-download')
   .usage('$0 <cmd> [args]')
   .command(
     'download <url>',
