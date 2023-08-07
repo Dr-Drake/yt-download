@@ -26,7 +26,7 @@ This will install the yt-downloader command globally, so that you can run it fro
 
 3. Test the installation by running the following command:
 ```bash
-yt-downloader --help
+yt-download --help
 ```
 
 ## Stay in touch
